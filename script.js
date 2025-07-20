@@ -1,2 +1,4 @@
 
-console.log('Vitalize Ventures - Ready to grow your digital presence!');
+document.addEventListener("DOMContentLoaded", () => {
+    console.log("Website loaded and ready.");
+});
